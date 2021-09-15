@@ -220,15 +220,6 @@
         }
         @media (max-width: 1160px){
             
-            /* .header{
-                padding-top: 0%;
-                width: 20%;
-                height: 100%;
-                position: fixed;
-                top: 70px;
-                background-color: rgb(92, 91, 91);
-            } */
-            
             .show-btn, .hide-btn
             {
                 display: block;
